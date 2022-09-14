@@ -16,7 +16,7 @@ Por otro lado, desde el punto de vista de la ciencia de datos y la investigació
 
 ## Descripción del problema
 
-Poniéndonos en la situación de que somos parte del equipo de la empresa Rent-Cycle en Wachington DC, y nuestro Team Leader nos da la tarea de implementar un modelo que nos permita predecir la cantidad de bicicletas que se alquilan según la información contenida en el dataset puesto a disposición.
+Poniéndonos en la situación de que somos parte del equipo de la empresa Rent-Cycle en Washington DC, y nuestro Team Leader nos da la tarea de implementar un modelo que nos permita predecir la cantidad de bicicletas que se alquilan según la información contenida en el dataset puesto a disposición.
 
 ## Métrica a utilizar
 
